@@ -11,5 +11,5 @@ This Power BI report analyzes employee attrition based on their years of service
 3. Explore the insights and modify as needed.  
 
 ## 👨‍💻 Author  
-[Sumayya Ibrahim][https://www.linkedin.com/in/sumayya-ibrahim-a6b11a27a/])
+[Sumayya Ibrahim](https://www.linkedin.com/in/sumayya-ibrahim-a6b11a27a/)
 
