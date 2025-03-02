@@ -4,7 +4,7 @@
 This Power BI report analyzes employee attrition based on their years of service and gender.  
 
 ## 📷 Screenshots  
-![Attrition Dashboard]((https://drive.google.com/file/d/1Fprfem9rNKBMqsJYSU8sl_GW3kdC8YfQ/view?usp=drive_link))  
+![Attrition Dashboard](https://drive.google.com/file/d/1Fprfem9rNKBMqsJYSU8sl_GW3kdC8YfQ/view?usp=drive_link)
 
 ## 🔗 How to Use  
 1. Download `attrition dashboard.pbix`.  
